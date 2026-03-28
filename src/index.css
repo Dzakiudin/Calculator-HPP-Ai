@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    @apply bg-slate-50 text-slate-900 overflow-x-hidden;
+}
